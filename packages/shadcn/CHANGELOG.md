@@ -1,5 +1,14 @@
 # shadcn
 
+## 4.21.5
+
+### Patch Changes
+
+- [#12192](https://github.com/shadcn-ui/ui/pull/12192) [`dd34945272729ecd198fabb0e32082f6321c210e`](https://github.com/shadcn-ui/ui/commit/dd34945272729ecd198fabb0e32082f6321c210e) Thanks [@shadcn](https://github.com/shadcn)! - Move @shadcn/registry modules out of utils.
+
+- Updated dependencies [[`97ddbf4274ed09d02aa7fd34375f2cf1e48cbbf0`](https://github.com/shadcn-ui/ui/commit/97ddbf4274ed09d02aa7fd34375f2cf1e48cbbf0), [`dd34945272729ecd198fabb0e32082f6321c210e`](https://github.com/shadcn-ui/ui/commit/dd34945272729ecd198fabb0e32082f6321c210e)]:
+  - @shadcn/registry@0.1.4
+
 ## 4.21.4
 
 ### Patch Changes
